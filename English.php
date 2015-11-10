@@ -43,7 +43,7 @@ $locale['Homepage']['Table']['Body']['Skin']['Caching'] = "1 Minute";
 
 $locale['Homepage']['Table']['Body']['Query']['API'] = "Server Query API";
 $locale['Homepage']['Table']['Body']['Query']['Description'] = "API that prints out information about a server.";
-$locale['Homepage']['Table']['Body']['Query']['Path'] = "/avatar";
+$locale['Homepage']['Table']['Body']['Query']['Path'] = "/query";
 $locale['Homepage']['Table']['Body']['Query']['Output'] = "PNG";
 $locale['Homepage']['Table']['Body']['Query']['Example'] = "/examples/query-api";
 $locale['Homepage']['Table']['Body']['Query']['Caching'] = "1 Minute";
@@ -52,7 +52,7 @@ $locale['Homepage']['Table']['Body']['Query']['Caching'] = "1 Minute";
 
 $locale['Homepage']['Table']['Body']['UUID']['API'] = "UUID API";
 $locale['Homepage']['Table']['Body']['UUID']['Description'] = "Prints out information about a uuid.";
-$locale['Homepage']['Table']['Body']['UUID']['Path'] = "/avatar";
+$locale['Homepage']['Table']['Body']['UUID']['Path'] = "/uuid";
 $locale['Homepage']['Table']['Body']['UUID']['Output'] = "PNG";
 $locale['Homepage']['Table']['Body']['UUID']['Example'] = "/examples/uuid-api";
 $locale['Homepage']['Table']['Body']['UUID']['Caching'] = "1 Minute";
@@ -61,7 +61,7 @@ $locale['Homepage']['Table']['Body']['UUID']['Caching'] = "1 Minute";
 
 $locale['Homepage']['Table']['Body']['Name']['API'] = "Name API";
 $locale['Homepage']['Table']['Body']['Name']['Description'] = "Prints out information about a name.";
-$locale['Homepage']['Table']['Body']['Name']['Path'] = "/avatar";
+$locale['Homepage']['Table']['Body']['Name']['Path'] = "/name";
 $locale['Homepage']['Table']['Body']['Name']['Output'] = "PNG";
 $locale['Homepage']['Table']['Body']['Name']['Example'] = "/examples/name-api";
 $locale['Homepage']['Table']['Body']['Name']['Caching'] = "1 Minute";
@@ -70,7 +70,7 @@ $locale['Homepage']['Table']['Body']['Name']['Caching'] = "1 Minute";
 
 $locale['Homepage']['Table']['Body']['History']['API'] = "Name History API";
 $locale['Homepage']['Table']['Body']['History']['Description'] = "Prints out the Name History of the provided username.";
-$locale['Homepage']['Table']['Body']['History']['Path'] = "/avatar";
+$locale['Homepage']['Table']['Body']['History']['Path'] = "/history";
 $locale['Homepage']['Table']['Body']['History']['Output'] = "PNG";
 $locale['Homepage']['Table']['Body']['History']['Example'] = "/examples/name-history-api";
 $locale['Homepage']['Table']['Body']['History']['Caching'] = "1 Minute";
@@ -79,7 +79,7 @@ $locale['Homepage']['Table']['Body']['History']['Caching'] = "1 Minute";
 
 $locale['Homepage']['Table']['Body']['MinecraftMarket']['API'] = "MinecraftMarket API";
 $locale['Homepage']['Table']['Body']['MinecraftMarket']['Description'] = "Prints out information about MinecraftMarket stores.";
-$locale['Homepage']['Table']['Body']['MinecraftMarket']['Path'] = "/avatar";
+$locale['Homepage']['Table']['Body']['MinecraftMarket']['Path'] = "/minecraftmarket";
 $locale['Homepage']['Table']['Body']['MinecraftMarket']['Output'] = "PNG";
 $locale['Homepage']['Table']['Body']['MinecraftMarket']['Example'] = "/examples/minecraftmarket-api";
 $locale['Homepage']['Table']['Body']['MinecraftMarket']['Caching'] = "1 Minute";

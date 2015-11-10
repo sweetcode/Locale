@@ -2,6 +2,7 @@
 
 // Global
 
+$locale['Global']['Selector']['Title'] = 'English';
 $locale['Global']['Header']['Title'] = "Powerful API Site designed for Minecraft Servers & Websites";
 $locale['Global']['Header']['Description'] = "MCAPI provides many APIs used for minecraft related websites. All of the APIs either output images or in json depending on the type of API.";
 $locale['Global']['Networks']['Title'] = "Networks utilising MCAPI";

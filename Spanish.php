@@ -2,13 +2,13 @@
 
 // Global
 
-$locale['Global']['Selector']['Title'] = 'Spanish';
+$locale['Global']['Selector']['Title'] = 'Español';
 $locale['Global']['Header']['Title'] = "Potente API de sito diseñada para Servidores de Minecraft y sitios web";
 $locale['Global']['Header']['Description'] = "MCAPI proporciona muchos APIs para Minecraft conexas sitops web. Todas las APIs devoluciones ya sea imágenes o JSON dependiendo en el  API.";
 $locale['Global']['Networks']['Title'] = "Redes que utilizan MCAPI";
 $locale['Global']['Footer']['Copyright'] = "&copy; MCAPI | <a href=\"https://minecraft.net\">Minecraft</a> es copyright de <a href=\"https://mojang.com\">Mojang AB</a> y no esta afiliado con MCAPI.";
 $locale['Global']['Footer']['Issue'] = "Incidencias de Seguimiento";
-$locale['Global']['Footer']['Sponsored'] = "Sponsored by MineSuperior";
+$locale['Global']['Footer']['Sponsored'] = "Patrocinado por MineSuperior";
 
 // Homepage [Start]
 

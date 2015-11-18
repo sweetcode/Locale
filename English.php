@@ -107,59 +107,56 @@ $locale['Homepage']['Table']['Body']['Other']['Caching'] = "1 Minute";
 // Homepage [End]
 
 // Example Pages [Start]
+
+// Global locale for pages
+
+$locale['GlobalPages']['Multiple']['Usage'] = "Example Usages";
+$locale['GlobalPages']['Single']['Usage'] = "Example Usage";
+
 // Avatar API Page
 
 $locale['Pages']['Avatar']['Title'] = "Avatar API";
 $locale['Pages']['Avatar']['Description'] = "This API provides you the ability to get a image of the head of a player in either 2D or 3D.";
-$locale['Pages']['Avatar']['Usage'] = "Example Usages";
 
 // Skin API Page
 
 $locale['Pages']['Skin']['Title'] = "Skin API";
 $locale['Pages']['Skin']['Description'] = "This API provides you the ability to get a image of the character model of a player in either 2D or 3D.";
-$locale['Pages']['Skin']['Usage'] = "Example Usages";
 
 // Server Query API	Page
 
 $locale['Pages']['Query']['Title'] = "Server Query API";
 $locale['Pages']['Query']['Description'] = "This API provides you the ability to gather data from minecraft servers such as their player count.";
-$locale['Pages']['Query']['Usage'] = "Example Usages";
 
 // UUID API Page
 
 $locale['Pages']['UUID']['Title'] = "UUID API";
 $locale['Pages']['UUID']['Description'] = "This API is for getting the UUID for one or multiple users at a time.";
-$locale['Pages']['UUID']['Usage'] = "Example Usages";
 
 // Name API Page
 
 $locale['Pages']['Name']['Title'] = "Name API";
 $locale['Pages']['Name']['Description'] = "This API is for getting the name for a UUID.";
-$locale['Pages']['Name']['Usage'] = "Example Usages";
 
 // Name History API Page
 
 $locale['Pages']['Skin']['Title'] = "Name History API";
 $locale['Pages']['Skin']['Description'] = "Coming Soon";
-$locale['Pages']['Skin']['Usage'] = "Example Usages";
 
 // MinecraftMarket API Page
 
 $locale['Pages']['Skin']['Title'] = "MinecraftMarket API";
 $locale['Pages']['Skin']['Description'] = "Coming Soon";
-$locale['Pages']['Skin']['Usage'] = "Example Usages";
 
 // Buycraft API Page
 
 $locale['Pages']['Skin']['Title'] = "Buycraft API";
 $locale['Pages']['Skin']['Description'] = "This API is used for getting data about a buycraft store.";
-$locale['Pages']['Skin']['Usage'] = "Example Usages";
 
 // Other APIs Page
 
 $locale['Pages']['Skin']['Title'] = "Other APIs";
 $locale['Pages']['Skin']['Description'] = "These APIs are APIs that are completely random or don't need their own category for themselves.";
-$locale['Pages']['Skin']['Usage'] = "Example Usages";
 
 // Example Pages [End]
 

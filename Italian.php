@@ -110,13 +110,8 @@ $locale['Homepage']['Table']['Body']['Other']['Caching'] = "1 Minuto";
 
 // Global locale for pages
 
-<<<<<<< HEAD
-$locale['GlobalPages']['Multiple']['Usage'] = "Example Usages";
-$locale['GlobalPages']['Single']['Usage'] = "Example Usage";
-=======
 $locale['GlobalPages']['Multiple']['Usage'] = "Esempio usi";
 $locale['GlobalPages']['Single']['Usage'] = "Esempio uso";
->>>>>>> refs/remotes/origin/pr/3
 
 // Avatar API Page
 

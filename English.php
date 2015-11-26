@@ -8,7 +8,7 @@ $locale['Global']['Header']['Description'] = "MCAPI provides many APIs used for 
 $locale['Global']['Networks']['Title'] = "Networks utilising MCAPI";
 $locale['Global']['Footer']['Copyright'] = "&copy; MCAPI | <a href=\"https://minecraft.net\">Minecraft</a> is copyright <a href=\"https://mojang.com\">Mojang</a> and is not affiliated with this site.";
 $locale['Global']['Footer']['Issue'] = "Issue Tracker";
-$locale['Global']['Footer']['Sponsored'] = "Sponsored by MineSuperior";
+$locale['Global']['Footer']['Sponsored'] = "Sponsored by MineSuperior &amp; MinePay";
 
 // Homepage [Start]
 

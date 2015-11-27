@@ -140,23 +140,23 @@ $locale['Pages']['Name']['Description'] = "This API is for getting the name for 
 
 // Name History API Page
 
-$locale['Pages']['Skin']['Title'] = "Name History API";
-$locale['Pages']['Skin']['Description'] = "Coming Soon";
+$locale['Pages']['History']['Title'] = "Name History API";
+$locale['Pages']['History']['Description'] = "Coming Soon";
 
 // MinecraftMarket API Page
 
-$locale['Pages']['Skin']['Title'] = "MinecraftMarket API";
-$locale['Pages']['Skin']['Description'] = "Coming Soon";
+$locale['Pages']['MinecraftMarket']['Title'] = "MinecraftMarket API";
+$locale['Pages']['MinecraftMarket']['Description'] = "Coming Soon";
 
 // Buycraft API Page
 
-$locale['Pages']['Skin']['Title'] = "Buycraft API";
-$locale['Pages']['Skin']['Description'] = "This API is used for getting data about a buycraft store.";
+$locale['Pages']['Buycraft']['Title'] = "Buycraft API";
+$locale['Pages']['Buycraft']['Description'] = "This API is used for getting data about a buycraft store.";
 
 // Other APIs Page
 
-$locale['Pages']['Skin']['Title'] = "Other APIs";
-$locale['Pages']['Skin']['Description'] = "These APIs are APIs that are completely random or don't need their own category for themselves.";
+$locale['Pages']['Other']['Title'] = "Other APIs";
+$locale['Pages']['Other']['Description'] = "These APIs are APIs that are completely random or don't need their own category for themselves.";
 
 // Example Pages [End]
 

@@ -140,23 +140,23 @@ $locale['Pages']['Name']['Description'] = "Questa API è per ottenere il nome da
 
 // Name History API Page
 
-$locale['Pages']['Skin']['Title'] = "API Cronologia del nome";
-$locale['Pages']['Skin']['Description'] = "In arrivo";
+$locale['Pages']['History']['Title'] = "API Cronologia del nome";
+$locale['Pages']['History']['Description'] = "In arrivo";
 
 // MinecraftMarket API Page
 
-$locale['Pages']['Skin']['Title'] = "MinecraftMarket API";
-$locale['Pages']['Skin']['Description'] = "In arrivo";
+$locale['Pages']['MinecraftMarket']['Title'] = "MinecraftMarket API";
+$locale['Pages']['MinecraftMarket']['Description'] = "In arrivo";
 
 // Buycraft API Page
 
-$locale['Pages']['Skin']['Title'] = "Buycraft API";
-$locale['Pages']['Skin']['Description'] = "Questa API è utilizzata per ottenere i dati su un negozio buycraft.";
+$locale['Pages']['Buycraft']['Title'] = "Buycraft API";
+$locale['Pages']['Buycraft']['Description'] = "Questa API è utilizzata per ottenere i dati su un negozio buycraft.";
 
 // Other APIs Page
 
-$locale['Pages']['Skin']['Title'] = "Altre API";
-$locale['Pages']['Skin']['Description'] = "Queste API sono completamente casuali o non hanno bisogno di loro propria categoria per se stessi.";
+$locale['Pages']['Other']['Title'] = "Altre API";
+$locale['Pages']['Other']['Description'] = "Queste API sono completamente casuali o non hanno bisogno di loro propria categoria per se stessi.";
 
 // Example Pages [End]
 

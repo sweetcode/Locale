@@ -71,7 +71,7 @@ $locale['Homepage']['Table']['Body']['Name']['Caching'] = "1 Minuto";
 // Table Body - Name History API
 
 $locale['Homepage']['Table']['Body']['History']['API'] = "Name History API";
-$locale['Homepage']['Table']['Body']['History']['Description'] = "Prints out the Name History of the provided username.";
+$locale['Homepage']['Table']['Body']['History']['Description'] = "Imprime o histórico de nomes do nome fornecido.";
 $locale['Homepage']['Table']['Body']['History']['Path'] = "/history";
 $locale['Homepage']['Table']['Body']['History']['Output'] = "PNG";
 $locale['Homepage']['Table']['Body']['History']['Example'] = "/examples/name-history-api";

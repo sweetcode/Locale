@@ -153,7 +153,6 @@ $locale['Pages']['MinecraftMarket']['Description'] = "Kommt bald";
 // Buycraft API Page
 
 $locale['Pages']['Buycraft']['Title'] = "Buycraft API";
-$locale['Pages']['Buycraft']['Description'] = "This API is used for getting data about a buycraft store.";
 $locale['Pages']['Buycraft']['Description'] = "This API wird dazu benutzt um Daten eines Buycraft Geschäftes zubekommen.";
 
 // Other APIs Page
